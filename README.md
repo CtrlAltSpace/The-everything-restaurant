@@ -1,0 +1,1 @@
+This restaurant program is for simulation and demonstration purposes only. No actual food or beverages are prepared, served, or delivered, and no payment, monetary transaction, or financial information is required or processed.
